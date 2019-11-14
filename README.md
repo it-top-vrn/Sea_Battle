@@ -3,6 +3,8 @@
 >Проект на стадии доработки, идет разделение на функции и перевод на классы.
 >Из-за реоргонизации проекта, структурна не представлена проекта в данном файле.
 
+![screenshot of sample](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR02HnWW8-z0AdC93uFcQsx0GdDTj5KRdnZbpBx0I7JD3ispmtgQ&s)
+
 ## Файлы проекта
 
 - [ioarray.cpp](ioarray.cpp)
